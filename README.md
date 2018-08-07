@@ -1,4 +1,4 @@
-Android AltBeacon Library ![](https://ci.appveyor.com/api/projects/status/gpeioj169wbj2n4b?svg=true)
+Android AltBeacon Library
 ==============================
 
 A Xamarin.Android binding of the [AltBeacon Android Beacon Library](https://github.com/AltBeacon/android-beacon-library). This library allows Android apps to interact with BLE beacons in accordance with the open and interoperable [AltBeacon proximity beacon protocol specification](https://github.com/AltBeacon/spec).
@@ -7,17 +7,13 @@ Note: This library uses the Java library version 2.15, and is Android Oreo (8.x)
 
 ## Use
 
-- [Nuget Package](https://www.nuget.org/packages/AndroidAltBeaconLibrary/)
-- [Xamarin Component](http://components.xamarin.com/view/android-altbeacon-library)
-- Download the binary from [Releases](https://github.com/chrisriesgo/Android-AltBeacon-Library/releases)
+- [Nuget Package](https://www.nuget.org/packages/AndroidAltBeaconLibrary_2_15/)
 
-## Reference Application
+## Reference Application (might not be compatible with 2.15)
 
 A simple [sample application](https://github.com/chrisriesgo/Android-AltBeacon-Library/tree/master/Samples/Android/AndroidAltBeaconLibrary.Sample) has been included with this repository to demonstrate ranging proximity beacons and a battery-saving background ranging feature.
 
 
-## Xamarin Component
-The [Android AltBeacon Library](http://components.xamarin.com/view/android-altbeacon-library) component is available in the Xamarin Component Store.
 
 ## Changes
 
