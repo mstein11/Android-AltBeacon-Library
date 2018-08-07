@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4D26EC32-DC3D-4046-A845-306A40014ADF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages/NuGet.Build.Packaging.0.2.0/build/NuGet.Build.Packaging.targets">
+    <Files>
+      <File FileName="packages/NuGet.Build.Packaging.0.2.0/build/NuGet.Build.Packaging.targets" Line="379" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AndroidAltBeaconLibrary PreferredExecutionTarget="Android.Android_ARMv7a_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
